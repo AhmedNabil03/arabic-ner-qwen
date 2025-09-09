@@ -61,6 +61,6 @@ This project fine-tunes the **Qwen2.5-0.5B-Instruct** model on an Arabic Named E
 ## Repository Structure
 ```
 arabic-ner-qwen/
-├── qwen_finetuning.ipynb
+├── qwen_ner_finetuning.ipynb
 └── README.md
 ```
